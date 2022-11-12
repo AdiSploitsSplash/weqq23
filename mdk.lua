@@ -10,10 +10,11 @@ end
 ------------------------------------------------------------------------------------------------------
 local NotificationBindable = Instance.new("BindableFunction")
 
+print("Nitronic Injected!")
 game.StarterGui:SetCore("SendNotification", {
     Title = "BlueFire Nitron";
-    Text = "Exploit Injected!";
-    Icon = "http://www.roblox.com/asset/?id=3264340825";
+    Text = "Nitronic Injected!";
+    Icon = "http://www.roblox.com/asset/?id=11543390119";
     Duration = 20;
     Button1 = "Ok";
     Button2 = "";
