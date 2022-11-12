@@ -16,7 +16,7 @@ game.StarterGui:SetCore("SendNotification", {
     Text = "Nitronic Injected!";
     Icon = "http://www.roblox.com/asset/?id=11543390119";
     Duration = 20;
-    Button1 = "Ok";
+    Button1 = "OK";
     Button2 = "";
     Callback = NotificationBindable;
 })
